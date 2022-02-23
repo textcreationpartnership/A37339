@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration concerning Colonel Henry Martin, Colonel Robert Lilburn, Colonel Downs, Colonel Temple, Colonel Waite, Mr. Smith, and Mr. Carew, Esq. who sate as judges on the life of our late martyr'd soveraign King Charles : with a charge and impeachment of their trayterous and dangerous proceedings against His Majesties loyal subjects, and the committing of them to the custody of that worthy and faithful Sir John Robinson ... : as also a discovery of their treasonable designs with those two perfidious Hannibals, Collonel John Barkstead and Collonel John Hewson.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37339</idno>
+            <idno type="STC">Wing D567</idno>
+            <idno type="STC">ESTC R37715</idno>
+            <idno type="EEBO-CITATION">17007615</idno>
+            <idno type="OCLC">ocm 17007615</idno>
+            <idno type="VID">105731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration concerning Colonel Henry Martin, Colonel Robert Lilburn, Colonel Downs, Colonel Temple, Colonel Waite, Mr. Smith, and Mr. Carew, Esq. who sate as judges on the life of our late martyr'd soveraign King Charles : with a charge and impeachment of their trayterous and dangerous proceedings against His Majesties loyal subjects, and the committing of them to the custody of that worthy and faithful Sir John Robinson ... : as also a discovery of their treasonable designs with those two perfidious Hannibals, Collonel John Barkstead and Collonel John Hewson.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Regicides.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105731:1" rendition="simple:additions"/>
+            <p>A DECLARATION CONCERNING
+<list>
+                  <item>Colonel <hi>Henry Martin,</hi>
+                  </item>
+                  <item>Colonel <hi>Robert Lilburn,</hi>
+                  </item>
+                  <item>Colonel <hi>Downs,</hi>
+                  </item>
+                  <item>Colonel <hi>Temple,</hi>
+                  </item>
+                  <item>Colonel <hi>Waite,</hi>
+                  </item>
+                  <item>Mr. <hi>Smith,</hi>
+                  </item>
+                  <item>And Mr. <hi>Carew</hi> Eſq;</item>
+               </list>
+            </p>
+            <p>Who ſate as Judges on the life of Our late martyr'd Soveraign King CHARLES;</p>
+            <p>With a Charge and Impeachment of their Trayte<g ref="char:EOLhyphen"/>rous and dangerous Proceedings, againſt His Majeſties Loyal Subjects;</p>
+            <p>And the Committing of them to the Cuſtody of that worthy and faithful Sir <hi>John Robinſon,</hi> Knight and Baronet, His Majeſties Lieutenant of the Tower of <hi>LONDON.</hi>
+            </p>
+            <p>As alſo, a Diſcovery of their Treaſonable Deſigns with thoſe two perfidious Hannibals,
+<list>
+                  <item>Collonel <hi>John Barkſtead,</hi> AND</item>
+                  <item>Collonel <hi>John Hewſon.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1660.</p>
+         </div>
+         <div type="modern_publishers_advertisement_for_an_etching">
+            <pb facs="tcp:105731:2"/>
+            <figure>
+               <byline>Etched by S. Allen</byline>
+            </figure>
+            <p>KEY TO THE ENGRAVING BY S. BELLIN AFTER J. BRIDGES PICTURE REPRESENTING <hi>CHARLES THE FIRST</hi> AFTER PARTING WITH HIS CHILDREN.</p>
+            <p>Portraits of the King, The Princeſs Elizabeth, Duke of Gloucester, Bishop Ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, Guards, Troopers of the Parliament</p>
+            <p>SIZE OF THE PLATE 185 INCHES BY 21</p>
+            <p>PRICE OF PRINTS £ 1.1.0. PROOFS £ 1.11.6. BEFORE LETTERS £ 3 3 0.</p>
+            <p>Published by Mary Parkes 22. Golden Square London 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi rend="sup">th</hi> F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bruary 1841</p>
+            <pb facs="tcp:105731:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105731:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:105731:3" rendition="simple:additions"/>
+            <head>A Declaration OF Col. Martin, and the reſt of the Priſoners in the Tower of London.</head>
+            <p>THere is not any thing in the Univerſe deſerves leſs to be a Member of it, than a ſelf ſeeking Man, who unconcern'd in the Publick Good, regards only his pri<g ref="char:EOLhyphen"/>vate Intereſt. The World unwillingly contributes to his maintenance; and Nature leſs abhors a Va<g ref="char:EOLhyphen"/>cuum, then that any place ſhould be filled by Sub<g ref="char:EOLhyphen"/>jects ſo empty of deſert He is a ſavage Creature in the midſt of civil People, not deſerving to be born of others, as not caring to live but for himſelf. Such were thoſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho ſate as Judges on the life of his lat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:105731:4" rendition="simple:additions"/>Majeſty, pretending nothing more than Liberty and Freedom. Indeed, it is a truth ſo manifeſt, and not to be diſſembled, that never yet was there a Ty<g ref="char:EOLhyphen"/>rant, but pretended to be a Saviour to the People: Liberty, Conſcience, a Glorious Nation, The Good Old Cauſe, and ſuch ſpecious Names are made uſe of.</p>
+            <p>Theſe Machiavilian Tricks, and Political Cheats, ſo often put upon his Majeſties good Subjects in theſe late bleeding a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d diſtracted Kingdoms, have now by the good Hand of Providence awakened Us, and undeceived the People with a ſad experi<g ref="char:EOLhyphen"/>ence of the miſeries we have ſubjected our ſelves to, by a perpetual Itch of reforming, annulling, crea<g ref="char:EOLhyphen"/>ting Laws, and framing New Governments to the model of every Uſurper and Tyrants Ambition; And all this under pretence of the Good Old Cauſe, did divers Colonels of the Army now in happy and ſafe Cuſtody, aſſume unto themſelues the Name of Supream Authority, acting in a moſt unjuſt and ar<g ref="char:EOLhyphen"/>bitrary Way by their own inſatiate Wills, and Ty<g ref="char:EOLhyphen"/>rannie of the bloody and perſecuting Sword: Wit<g ref="char:EOLhyphen"/>neſſe that horrid and moſt unparallel'd execrable Murder upon our late Martyr'd Soveraign, who not long before that wicked and fatal blow, was reviled mocked, and with indignation ſpit upon; yet was this gracious King, and Mirrour of Princes, not di<g ref="char:EOLhyphen"/>ſturbed
+<pb n="3" facs="tcp:105731:4" rendition="simple:additions"/>in his precious Soul ſo much as to tread one foot awry, or to ſhew the leaſt diſcontent in His Princely Face; but after Sentence, on the Saturday, having ſpent that laſt Sabbath of His on Earth, in holy meditations with his Chaplain, in hearing, reading, and prayer, he trimmed up his celeſtiall Spouſe (his Soul) for her celeſtial Bridegroom, which he every hour looked for; Nay more, the night approaching<g ref="char:punc">▪</g> he ſpent the moſt part thereof in devout prayer, never putting off his Cloaths, praying ſo ſweetly, ſo fervently, and ſo charitably, that one of His Enemies confeſſed, who privately he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd Him, That if ever any King had Communion with God on Earth, it was this glorious and martyr'd Prince: The next morning being very deſirous to ſee His Children that were in England, with mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ado they were permitted to go and viſit their impriſoned and condemned Father; And his two tender &amp; Princely Babes, the Lady Elizabeth, and the Duke of Glou<g ref="char:EOLhyphen"/>ceſter, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing come to weep in their Royal Fathers Boſome, the King with a pleaſant Countenance &amp; Voice, bleſſed them and embraced them &amp;c.</p>
+            <p>The young Lady went weeping, not onely tears, but blood and the Duke, like a Dove in the Valley, grieving for the loſs of his dear Father; both (as two weaned Lambs out of the Paſture) being bereft of Father and Mother, Brothers and Siſters, were taken by ſtrangers from the Earl of <hi>Leice<g ref="char:EOLhyphen"/>ſter,</hi> and carried to the Iſle of <hi>Wight,</hi> there to be pent up in that Caſtle, which their Royal Father, by wicked Traytors, had been kept a priſoner.</p>
+            <pb n="4" facs="tcp:105731:5" rendition="simple:additions"/>
+            <p> Well now let us take an account of theſe Rebel<g ref="char:EOLhyphen"/>lious Brethren, and declare to the World their great Enormities for which they ſtand committed to the Tower of London: And firſt we ſhall begin with that ignoble Schiſmatick, deboiſt Lunatick, and diſloyall Subject Henry Martin, whoſe notori<g ref="char:EOLhyphen"/>ous ſame hath been ſufficiently ſpread over all So<g ref="char:EOLhyphen"/>dom and Gomorrha, and has the character of cou<g ref="char:EOLhyphen"/>rage and abilities, fitting to ſit with Betty Blunt, or amongſt the greateſt kennel of Whores in Croſſe<g ref="char:EOLhyphen"/>lane or Bloomsbury.</p>
+            <p>Next comes the two Arch-brethren in iniquity, Col. Waite, and Col. Temple, whoſe right valiant treacherous and ambitious atchievements are ſuffi<g ref="char:EOLhyphen"/>ciently made manifeſt, ſince the denouncing of that moſt horrid Sentence for the execrable &amp; bloo<g ref="char:EOLhyphen"/>dy Murder of our late Dread Soveraign and Mar<g ref="char:EOLhyphen"/>tyr'd King CHARLES.</p>
+            <p>Next comes that gr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Champion Col. Robert Lilburn, a great Protectorian, a moſt implacable Ene<g ref="char:EOLhyphen"/>my againſt Kingly-Government, and a moſt inſo<g ref="char:EOLhyphen"/>lent Infringer of the Peoples Liberties; one that had more Wit than Honeſty, but deſpiſed the Good old Law called Magna Charta. A pure Bird of Old Noll's Hatching; and one whoſe dark and obſcure Actions ſprung and were delineated from the blind
+<pb n="5" facs="tcp:105731:5" rendition="simple:additions"/>and prepoſterous Principles of Col Hewſon, who by his baſe prudence vile and ambitious Wit drew up a thouſand perfidious Hannibals to the Royall Exchange, and there ſlew his poor Brother-Cobler; for which he ſtands indicted for Murder upon Re<g ref="char:EOLhyphen"/>cord at the Old-Bayley; and in due time may re<g ref="char:EOLhyphen"/>ceive the juſt Reward of a notorious Traytor.</p>
+            <p>The next are Col, Downs, Mr. Carey, and Mr. Smith, all Birds of the ſame Feather, and three of the late Kings Tryers; for which they ſtand impeach<g ref="char:EOLhyphen"/>ed, and committed, in order to the ſeveral Miſde<g ref="char:EOLhyphen"/>meanours, Rebellions, and Perjuries; And to whom alſo ſome others of the ſame Order are ſent to cu<g ref="char:EOLhyphen"/>ſtody; amongſt whom, that worthy Imp Colonel Barkſtead (we hear) is one.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
